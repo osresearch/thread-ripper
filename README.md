@@ -60,4 +60,13 @@ The set screw for the feedwheel handle is M2.5.
 
 All other hardware is M3.
 
-
+* `ThreadCutter-WayMount.stl` -- press fit 22x8mm bearing, secure with M3x25 to front way
+* `ThreadCutter-WayMountFeed.stl` -- press fit 22x8mm bearing, secure with M3x25 to front way
+* `ThreadCutter-FeedGearCrossshaft.stl` -- self-tap an M3 set screw
+* `ThreadCutter-FeedGearHandwheel.stl` -- self-tap an M2.5 screw, be sure it does not protrude into the gear teeth
+* `ThreadCutter-FeedReverser.stl` -- M6 screw into the `WayMountFeed`
+* `ThreadCutter-SpindleNut.stl` -- self-tap an M3 set screw
+* `ThreadCutter-ChangeGear30.stl`
+* `ThreadCutter-ChangeGear45.stl` -- print twice
+* `ThreadCutter-ChangeGear60.stl`
+* `ThreadCutter-EndStop.stl` -- optional for holding a dial indicator
