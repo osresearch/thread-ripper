@@ -1,4 +1,6 @@
 # Thread cutting attachment for Emco Unimat SL microlathe
+![Image of the lathe with thread cutting attachment installed](images/installed.jpg)
+
 
 **WARNING** Never power up the lathe with the threading gears attached!
 The 3D printed pieces are designed for hand-operation only.
@@ -18,7 +20,12 @@ Remove the gear from the cross shaft before engaging the motor.
 
 ## Pitches
 
+![Two threads cut, one very fine and one very coarse](images/m6.jpg)
+
 Thread pitch is controlled by installing a gear T1 on the crossshaft and T2 on the spindle.
+The 0.5 fine pitch on the left is with the 30 on the cross shaft and the 60 on the spindle,
+while the 2.0 coarse pitch on the right is with the 60 on the cross shaft and 30 on the spindle.
+
 All of the combinations sum to 90 teeth and the spacing between cross shaft and spindle is 54mm.
 This is means a 1.2 modulus for the gears (45 tooth * 1.2 module == 54mm diameter).
 
