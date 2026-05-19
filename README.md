@@ -2,7 +2,7 @@
 ![Image of the lathe with thread cutting attachment installed](images/installed.jpg)
 
 
-**WARNING** Never power up the lathe with the threading gears attached!
+**WARNING** Never power up the lathe with a threading gear on the cross shaft.
 The 3D printed pieces are designed for hand-operation only.
 Remove the gear from the cross shaft before engaging the motor.
 
@@ -12,11 +12,13 @@ Remove the gear from the cross shaft before engaging the motor.
 * Set an end stop for the carriage.
 * Move the carriage to the right side of the threaded section.
 * Feed the tool in until it just makes contact.
+* **Remove motor belt** -- for safety and also it makes it easier to turn the spindle.
 * Install the correct change gears for the desired thread pitch.
-* Feed the carriage either with the handwheel or by turning the spindle.
+* Install the crank handle if desired.
+* Turn the spindle and feedwheel to do a scratch test.
 * At the end of the threaded section, back out the tool a whole turn.
-* Return the carriage to the start of the threaded section.
-* Feed in the tool 0.1 or 0.2mm further and repeat.
+* Turn the spindle and feedwheel backwards to return the carriage to the start of the threaded section.
+* Feed in the tool 0.1 or 0.2mm further and repeat.  It's not very rigid, so shallow cuts are better.
 
 ## Pitches
 
